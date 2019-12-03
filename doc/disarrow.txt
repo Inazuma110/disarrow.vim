@@ -22,7 +22,8 @@ recommend NOT using this plugin.
 ==============================================================================
 CONFIGURE					*disarrow-configure*
 
-						*disarrow#lang()*
+						*g:disarrow#lang()*
+g:disarrow#lang()
 		This variable is warning message's language.
 		If you want to use japanese, please set 'ja'.
 		Eles or not set, warning message will be English.
