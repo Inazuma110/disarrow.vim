@@ -15,6 +15,7 @@ INTRODUCTION					*disarrow-introduction*
 
 *disarrow.vim* disable arrow keys and correct to use 'h', 'j', 'k', and 'l'.
 And display warning message when you use arrow keys.
+This message is inspired by [VIM Adventures](https://vim-adventures.com/)
 If you are not Neovim/vim beginner, this plugin may be inconvenient. So I
 recommend NOT using this plugin.
 
