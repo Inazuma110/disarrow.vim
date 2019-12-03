@@ -5,7 +5,6 @@ if exists('g:loaded_disarrow')
   finish
 endif
 let g:loaded_disarrow = 1
-let g:disarrow#lang_en = 'en'
 
 "user settings invalid
 let s:save_cpo = &cpo
