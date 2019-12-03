@@ -3,6 +3,7 @@ This plugin disable arrow keys and correct to use 'h', 'j', 'k', and 'l'.
 
 And display warning like this screenshot when you use arrow keys.
 ![warn_display](./screenshot/disp_warn.png)
+
 This message is inspired by [VIM Adventures](https://vim-adventures.com/)
 
 **Note**
@@ -25,7 +26,7 @@ repo = 'Inazuma110/disarrow.vim'
 ```
 
 ## Configuration
-If you want to use japanese, set this.
+If you want to use Japanese, set this.
 ```vim
 let g:disarrow#lang = 'ja'
 ```
